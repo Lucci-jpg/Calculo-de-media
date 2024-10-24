@@ -12,7 +12,6 @@
 
 
         /*3 Strings para receber 3 salarios, e calcular a média
-        facilidade de separar as casas com "." ou ","
         somar os 3 salarios e dividir por 3
         converter string em valor numerico*/
 
